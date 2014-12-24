@@ -1,3 +1,4 @@
+＃please be advised the directory should be in the folder of UCI HAR dataset
 #training with activity label
 train<-read.table("train/X_train.txt")
 trainLabel<-read.table("train/y_train.txt")
