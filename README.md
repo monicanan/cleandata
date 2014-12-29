@@ -1,10 +1,10 @@
 This is a mark down file to explain how to use the run_analysis. R to finish the course project 
 
 Quoting some txt file instruction from readme.txt of
-==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+
 'train/X_train.txt': Training set.
 
 - 'train/y_train.txt': Training labels.
